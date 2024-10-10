@@ -11,17 +11,17 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2349039996138"
-global.ownername = "ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮"
+global.ownername = "EVERGREEN"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
 global.ownernumber = '2349039996138'  //creator number
-global.ownername = 'ᴵᴬᴹ ➳ᒪᴼℜ𝑫 ᙢ𝔉𝓒ᒪᴼ𝙉ᙓ➳🎮' //owner name
+global.ownername = 'EVERGREEN' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'MFCLONE'
+global.packname = 'EVERGREEN'
 global.author = 'Tech-God\n\nContact: +917466008456'
 
 //console view/theme
@@ -32,12 +32,12 @@ global.wm = "Youtube Tech God."
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoRecording = false //auto recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false//auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
